@@ -44,7 +44,14 @@ A sleek and simple weather app created with **Java Spring Boot**, **HTML/CSS**, 
    Open your browser and go to `http://localhost:8080`
 
 ## Screenshots
-*Include screenshots here for visual reference.*
+
+### 🌐 Home Page
+![Home Page](screenshots/home_page.png)
+
+### 🌎 City Weather Search
+![City Search](screenshots/city_search.png)
+
+
 
 ## License
 This project is licensed under the MIT License.
