@@ -46,10 +46,10 @@ A sleek and simple weather app created with **Java Spring Boot**, **HTML/CSS**, 
 ## Screenshots
 
 ### 🌐 Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](ss11.PNG)
 
 ### 🌎 City Weather Search
-![City Search](screenshots/city_search.png)
+![City Search](ss1.PNG)
 
 
 
