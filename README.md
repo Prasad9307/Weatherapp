@@ -62,8 +62,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Acknowledgements
 - [OpenWeatherMap API](https://openweathermap.org/)
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-```
-
---- 
-
-This README format is designed to make it easy for others to understand your project and start using or contributing to it right away.
